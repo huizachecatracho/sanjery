@@ -1,0 +1,16 @@
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\bin\Debug\cargar_asistencias.exe.config
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\bin\Debug\cargar_asistencias.exe
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\bin\Debug\cargar_asistencias.pdb
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\bin\Debug\cargar_asistencias.xml
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\obj\Debug\cargar_asistencias.vbprojAssemblyReference.cache
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\obj\Debug\cargar_asistencias.Form1.resources
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\obj\Debug\cargar_asistencias.Resources.resources
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\obj\Debug\cargar_asistencias.vbproj.GenerateResource.cache
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\obj\Debug\cargar_asistencias.vbproj.CoreCompileInputs.cache
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\obj\Debug\cargar_asistencias.exe
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\obj\Debug\cargar_asistencias.xml
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\obj\Debug\cargar_asistencias.pdb
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\bin\Debug\cargar_asistencias.exe.manifest
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\bin\Debug\cargar_asistencias.application
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\obj\Debug\cargar_asistencias.exe.manifest
+D:\Desarrollo\VS\Aplic_Escritorio\Cargar Asistencias\cargar_asistencias\cargar_asistencias\obj\Debug\cargar_asistencias.application
